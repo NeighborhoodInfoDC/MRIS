@@ -1,0 +1,47 @@
+ZIP NAME		  ZIP	UCOUNTY
+MIDDLEBURG                20117 51061 - primarily in loudoun county not fauquier
+CATLETT                   20119 51153 - primarily in fauquier not prince william county
+PARIS                     20130 51107 - this could be switched from loudoun to clarke.
+BLUEMONT                  20135 51107 - half in loudoun county
+BLUEMONT                  20135 54037 - only a tiny bit in jefferson county
+BROAD RUN                 20137 51153 - primarily in fauquier not prince william county
+NOKESVILLE                20181 51061 - primarily in prince william not fauquier county
+UPPERVILLE                20184 51107 - primarily in loudoun county not fauquier
+WALDORF                   20601 24033 - primarily in charles county not prince george's county 
+BRANDYWINE                20613 24017 - primarily in prince george's county not charles.
+INDIAN HEAD               20640 24033 - primarily in charles county not prince george's county 
+BELTSVILLE                20705 24031 - primarily in prince george's county not montegomery.
+LAUREL                    20707 24031 - primarily in prince george's county not montegomery.
+HYATTSVILLE               20783 24031 - primarily in prince george's county not montegomery.
+DICKERSON                 20842 24021 - primarily in montgomery county not frederick
+CLARKSBURG                20871 24021 - primarily in montgomery county not frederick
+SILVER SPRING             20903 24033 - primarily in montgomery county not prince george's
+SILVER SPRING             20904 24033 - primarily in montgomery county not prince george's
+TAKOMA PARK               20912 24033 - primarily in montgomery county not prince george's
+MOUNT AIRY                21771 24031 - primarily in frederick county not montgomery
+FAIRFAX                   22030 51059 - primarily in fairfax city not county
+FAIRFAX                   22030 51610 - primarily in fairfax city not falls church
+FAIRFAX                   22031 51600 - primarily in fairfax county not city
+FAIRFAX                   22032 51600 - primarily in fairfax county not city
+FALLS CHURCH              22046 51059 - primarily in falls church not fairfax county
+GREAT FALLS               22066 51107 - primarily in fairfax county not loudoun
+MC LEAN                   22101 51013 - primarily in fairfax county not arlington
+SHIRLINGTON               22206 51059 - primarily in arlington county not fairfax
+SHIRLINGTON               22206 51510 - primarily in arlington county not alexandria
+NORTH ARLINGTON           22207 51059 - primarily in arlington county not fairfax
+WEST ARLINGTON            22213 51059 - primarily in arlington county not fairfax
+DEL RAY/ROSEMONT          22301 51059 - primarily in alexandria city not fairfax county
+LANDMARK, CAMERON STATION 22304 51059 - primarily in alexandria city not fairfax county
+ALEXANDRIA                22310 51510 - primarily in fairfax county not alexandria city
+STONEGATE                 22311 51059 - primarily in alexandria city not fairfax county
+PINECREST/OVERLOOK        22312 51510 - primarily in fairfax county not alexandria city
+FREDERICKSBURG            22405 51630 - primarily in stafford county not fredericksburg city
+FREDERICKSBURG            22406 51630 - primarily in stafford county not fredericksburg city
+FREDERICKSBURG            22407 51630 - primarily in spotsylvania county not fredericksburg city 
+FREDERICKSBURG            22408 51630 - primarily in spotsylvania county not fredericksburg city 
+WOODFORD                  22580 51177  - this is primarily in Caroline County
+WOODFORD                  22580 51179  - this is primarily in Caroline County
+FRONT ROYAL               22630 51043 - primarily in warren county not clarke
+LINDEN                    22642 51061 - half in fauquier county
+MANASSAS       		  20110 51153 - primarily in manassas city not prince william county
+MANASSAS                  20111 51685 - primarily in prince william county not manassas 
